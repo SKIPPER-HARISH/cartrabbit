@@ -40,7 +40,7 @@ Note: If the backend URL port is changed, make sure to replace it in the fronten
    DB name: nodejsdb
    
 
-5. Create tables or push from prisma Schema:
+5. Create tables:
    
    employee table, users table
    
